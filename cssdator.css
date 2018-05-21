@@ -81,3 +81,9 @@ body{
   background-color: #515151;
   font-family: sans-serif;
 }
+button{
+    background-color: #333;
+    font-family: sans-serif;
+    color: #fff;
+    border: 100px and black;
+}
