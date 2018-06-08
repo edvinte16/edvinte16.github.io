@@ -1,5 +1,5 @@
 function myFunction() {
-    document.getElementById("demo").innerHTML = "Ello javascript.";
+    document.getElementById("demo").innerHTML = "Jag är 18 år gammal, föd 2000/02/23,";
 
     var x = 5;
 var y = 6;
